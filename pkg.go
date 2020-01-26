@@ -1,7 +1,7 @@
-package helloworld
+package helloworldnogomod
 
 import "fmt"
 
-func SayHi() {
+func SayHiWithoutAGoMod() {
 	fmt.Println("Hello World")
 }

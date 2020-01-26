@@ -1,7 +1,7 @@
 package main
 
-import helloworld "github.com/dustinblackman/go-hello-world-test"
+import helloworldnogomod "github.com/dustinblackman/go-hello-world-test-no-gomod"
 
 func main() {
-	helloworld.SayHi()
+	helloworldnogomod.SayHiWithoutAGoMod()
 }
